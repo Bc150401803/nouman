@@ -1,2 +1,0 @@
-# nouman
-telegrambot
